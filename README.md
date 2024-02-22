@@ -38,7 +38,8 @@ http://ai2.appinventor.mit.edu/?locale=pt_BR#5684705720926208
 
 Link compartilhado do Vídeo:
 
-![foto_video_iot6](https://github.com/Sillmann/livre-ocupado-web-codeIOT/assets/58642347/59585e53-b104-4140-9a31-288c5faaa287)
+![foto_video_iot6_mini](https://github.com/Sillmann/livre-ocupado-web-codeIOT/assets/58642347/20e9e032-40ff-4698-8116-0f0d88b17914)
+
 
 https://drive.google.com/file/d/1f5n1bj5FhP9xs7hjxXAgVp63jMTtmhhS/view?usp=sharing
 
